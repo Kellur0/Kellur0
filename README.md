@@ -1,8 +1,17 @@
 # 👋 Hi there, I'm Keerthanaa Ellur
 
-🎓 Graduate Student | 💻 Data Analyst | 📊 Machine Learning Enthusiast
+🎓 Graduate Student | 💻 Data Analyst | 📊 Machine Learning Enthusiast | 📊 Data Storyteller  
 
-I'm currently pursuing my M.S. in Information Systems – Business Analytics. I'm passionate about turning data into actionable insights, solving real-world problems, and making data-driven decisions that matter. My experience spans financial analytics, predictive modeling, fraud detection, and dashboard development.
+I'm currently pursuing my M.S. in Information Systems – Business Analytics. I'm passionate about turning data into actionable insights, solving real-world problems. With 2+ years of hands-on experience in data analytics, I specialize in transforming complex datasets into clear, actionable insights that support business growth and strategy. 
+
+🔍 My expertise lies in:  
+- Statistical modeling  
+- Predictive analytics  
+- Dashboard development  
+- Process optimization  
+- Data visualization and storytelling  
+
+I'm passionate about making data understandable and impactful. I love uncovering trends, patterns, and opportunities that help drive informed decisions and solve real business challenges.  
 
 ## 🔗 Let's Connect
 
