@@ -4,6 +4,10 @@
 
 I'm currently pursuing my M.S. in Information Systems – Business Analytics. I'm passionate about turning data into actionable insights, solving real-world problems, and making data-driven decisions that matter. My experience spans financial analytics, predictive modeling, fraud detection, and dashboard development.
 
+## 🔗 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthanaa-ellur)  
+
 ## 💼 What I'm Working On
 
 - 🤖 Developing machine learning models for fraud detection using real-world insurance claim data  
@@ -14,6 +18,7 @@ I'm currently pursuing my M.S. in Information Systems – Business Analytics. I'
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
@@ -22,15 +27,6 @@ I'm currently pursuing my M.S. in Information Systems – Business Analytics. I'
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/Alteryx-0055C2?logo=alteryx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white)
-
-## 📈 GitHub Stats
-
-![Keerthanaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kellur0&show_icons=true&theme=tokyonight)
-
-## 🔗 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthanaa-ellur)  
 
 ---
 
