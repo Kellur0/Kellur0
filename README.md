@@ -1,8 +1,9 @@
 # 👋 Hi there, I'm Keerthanaa Ellur
 
-🎓 Graduate Student | 💻 Data Analyst | 📊 Machine Learning Enthusiast | 📊 Data Storyteller  
+🎓 M.S. in Information Systems – Business Analytics | 💻 Data Analyst | 📊 Machine Learning Enthusiast | 📊 Data Storyteller  
 
-I'm currently pursuing my M.S. in Information Systems – Business Analytics. I'm passionate about turning data into actionable insights, solving real-world problems. With 2+ years of hands-on experience in data analytics, I specialize in transforming complex datasets into clear, actionable insights that support business growth and strategy. 
+I recently completed my master’s degree and am actively seeking **full-time opportunities** as a **Data Analyst**, **Business Analyst**, or **Financial Analyst**. I'm passionate about turning data into actionable insights, solving real-world problems. 
+With 2+ years of hands-on experience in data analytics, I specialize in transforming complex datasets into clear, actionable insights that support business growth and strategy. 
 
 🔍 My expertise lies in:  
 - Statistical modeling  
@@ -10,6 +11,12 @@ I'm currently pursuing my M.S. in Information Systems – Business Analytics. I'
 - Dashboard development  
 - Process optimization  
 - Data visualization and storytelling  
+
+## 🔍 What I Bring
+- Strong analytical and problem-solving skills  
+- Expertise in Python, SQL, R, and advanced Excel  
+- Experience with machine learning, data pipelines, and BI tools  
+- Ability to communicate insights clearly to technical and non-technical stakeholders  
 
 I'm passionate about making data understandable and impactful. I love uncovering trends, patterns, and opportunities that help drive informed decisions and solve real business challenges.  
 
@@ -19,9 +26,10 @@ I'm passionate about making data understandable and impactful. I love uncovering
 
 ## 💼 What I'm Working On
 
-- 🤖 Developing machine learning models for fraud detection using real-world insurance claim data  
-- 📊 Building dashboards with Power BI and Tableau for financial and operational reporting  
-- 🧠 Learning more about AI-driven analytics and real-time data pipelines  
+- 📊 Building dashboards for financial and operational reporting  
+- 🤖 Exploring AI-driven analytics and real-time data solutions  
+- 🧠 Enhancing predictive models for business decision-making 
+ 
 
 ## 🧰 Tech Stack
 
